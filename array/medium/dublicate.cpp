@@ -20,7 +20,7 @@ vector<int> findDuplicates(vector<int>& arr) {
 }
 
 int main() {
-    vector<int> arr = {4, 3, 2, 7, 8, 2, 3, 1}; // Example input
+    vector<int> arr = {4, 3, 2, 7, 8, 2, 3, 1}; 
 
     vector<int> duplicates = findDuplicates(arr);
 
